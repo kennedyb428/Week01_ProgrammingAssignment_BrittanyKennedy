@@ -1,3 +1,5 @@
+Week #1 Programming Assignment by Brittany Kennedy
+
 This project, titled Vegetarian Nutrition for Weightlifting, is a C++ program designed to assist users in determining their suggested daily and per-meal macronutrient intake (protein, carbohydrates, and fats). 
 
 The purpose of this project is to demonstrate basic C++ programming concepts, including user input, variable and constant usage, mathematical calculations, and formatted output. 
